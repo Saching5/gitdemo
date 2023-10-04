@@ -1,0 +1,313 @@
+<div class="inner-banner">  
+  <picture>
+    <source srcset="https://d21xn5q7qjmco5.cloudfront.net/images/1627033134.png" media="(min-width:768px)">
+    <source srcset="https://d21xn5q7qjmco5.cloudfront.net/images/1627033134.png" media="(min-width:320px)">
+    <img src="https://d21xn5q7qjmco5.cloudfront.net/images/1627033134.png" style="width: 100%;">
+  </picture> 
+          
+  <div class="heading"><div class="container-fluid"><h1>About Fenesta</h1>
+             </div>
+          </div> 
+      </div>
+      <!-- grids..... -->
+      <!-- <div class="container mt-5"> -->
+  
+          <div class="row" >
+            <div class="card" style="width: 10rem;height: 10rem; margin-left: 85px;background-color: rgb(8, 178, 245);">
+              <div class="card-body" style="text-align: center;">
+                  <img src="https://d21xn5q7qjmco5.cloudfront.net/images/about/1-20210604133541-port7.png" alt="500 Direct Sales Representatives">
+                <h6 class="card-title" style="color: white; text-align: center; margin-top: 10px;">500 Direct Sales Representatives</h6>
+                <p class="card-text"></p>
+              </div> 
+            </div>
+              <div class="card" style="width: 10rem;height: 10rem;background-color: rgb(8, 178, 245);">
+                <div class="card-body" style="text-align: center;">
+                  <img src="https://d21xn5q7qjmco5.cloudfront.net/images/about/1-20210604133532-port6.png" alt="216 Channel Partner Showrooms">
+                  <h6 class="card-title" style="color: white; text-align: center; margin-top: 10px;">216 Channel Partner Showrooms</h6>
+                  <p class="card-text"></p>
+                </div> 
+              </div>
+              <div class="card" style="width: 10rem;height: 10rem;background-color: rgb(8, 178, 245);">
+                <div class="card-body" style="text-align: center;">
+                  <img src="https://d21xn5q7qjmco5.cloudfront.net/images/about/1-20210604133458-port5.png" alt="9 Signature Studios">
+                  <h6 class="card-title" style="color: white; text-align: center; margin-top: 10px;">9 Signature Studios</h6>
+                  <p class="card-text"></p>
+                </div> 
+              </div>
+              <div class="card" style="width: 10rem;height: 10rem;background-color: rgb(8, 178, 245);">
+                <div class="card-body" style="text-align: center;">
+                  <img src="https://d21xn5q7qjmco5.cloudfront.net/images/about/1-20210604133437-port4.png" alt="20 Sales Offices &amp; 5 Factories">
+                  <h6 class="card-title" style="color: white; text-align: center; margin-top: 10px;">20 Sales Offices & 5 Factories</h6>
+                  <p class="card-text"></p>
+                </div> 
+              </div>
+              <div class="card" style="width: 10rem;height: 10rem;background-color: rgb(8, 178, 245);">
+                <div class="card-body" style="text-align: center;">
+                  <img src="https://d21xn5q7qjmco5.cloudfront.net/images/about/1-20210604133429-port3.png" alt="Serving in 327 Cities">
+                  <h6 class="card-title" style="color: white; text-align: center; margin-top: 10px;">Serving in 327 Cities</h6>
+                  <p class="card-text"></p>
+                </div> 
+              </div>
+              <div class="card" style="width: 10rem;height: 10rem;background-color: rgb(8, 178, 245);">
+                <div class="card-body" style="text-align: center;">
+                  <img src="https://d21xn5q7qjmco5.cloudfront.net/images/about/1-20210604133419-port2.png" alt="Part of 1889 Est. DCM Shriram group">
+                  <h6 class="card-title" style="color: white; text-align: center; margin-top: 10px;">Part of 1889 Est. DCM Shriram group</h6>
+                  <p class="card-text"></p>
+                </div> 
+              </div>
+              <div class="card" style="width: 10rem;height: 10rem;background-color: rgb(8, 178, 245);">
+                <div class="card-body" style="text-align: center;">
+                  <img src="https://d21xn5q7qjmco5.cloudfront.net/images/about/1-20210604132900-port1.png" alt="India's Largest Windows &amp; Doors brand">
+                  <h6 class="card-title" style="color: white; text-align: center; margin-top: 10px;">India's Largest Windows & Doors brand</h6>
+                  <p class="card-text"></p>
+                </div> 
+              </div>
+              </div>
+          <!-- </div> -->
+          <!-- bottom content.... -->
+          <div class="container">
+          <div class="bottom-content">
+
+              <p>We are India's largest windows and doors brand, and a part of Rs 9,849 crore, 1889 Est. DCM Shriram Group acknowledged for its transparent work culture and diversity. Fenesta today boasts of sales and service presence in more than 327 cities through twenty sales offices, Five factories, nine Signature Studios, 216 Channel Partner showrooms and a strong direct sales force of more than 500 executives.</p>
+
+<p><br>
+Empowered with knowledge of India's extreme conditions, Fenesta has designed uPVC and System Aluminium Windows and Doors that are able to withstand India's extreme climate. Our high performance products add an architectural dimension to the home and keep out street noise, dust and pollution, rain and wind. Our solutions outlast buildings.&nbsp;</p>
+
+<p><br>
+Fenesta is the only company in India that manufactures its own uPVC blend and profiles. The PVC resins are sourced in-house from another division of DCM Shriram and are sent to the extrusion plant in Kota for manufacturing of a weather resistant special uPVC blend. The profiles extruded in Kota are then sent to factories across the country. The company has fabrication units in Bhiwadi, Chennai and Hyderabad, from where the final products are shipped out to showrooms and customer sites across the country.</p>
+
+<p><br>
+No other company in the India draws from world-class infrastructure or has complete control over the entire supply chain of window manufacturing and installation. It takes all-round expertise in extrusion, design, planning, fabrication, delivery and installation to produce a world-class window.</p>
+
+<p><br>
+These are wide-ranging skills and they reside only with Fenesta. With Fenesta, customer is assured of end to end service starting from selecting right designs, site survey, fabrication, delivery and installation. As window experts, Fenesta takes pride in its ability to serve individual homes and large developers with equal ease. Headquartered in Gurugram, our nationwide service infrastructure allows us to offer complete window solutions and execute orders of any size, no matter where you are.<br>
+&nbsp;</p>
+</div>
+
+<!-- vission mission box -->
+<div class="inner-box" style="margin-top: 20px; width: 80%">
+  <div class="col-md-11">
+      <div class="copy_block">
+        <ul>
+          <li>
+            <h3>Vision</h3>
+            <p>To Improve the Lives and Homes of customers through Innovation and Excellence and be the brand leader in Customised Building Solutions</p>
+          </li>
+          <li>
+            <h3>Mission</h3>
+            <p>To establish a service organisation that passionately provides Customised Building Solutions and delivers Exceptional Customer Experience.</p>
+          </li>
+        </ul>
+      </div></div>
+              <div class="col-md-1">
+                  <div class="img">
+        <img src="https://d21xn5q7qjmco5.cloudfront.net/images/our-vision.jpg" alt="no-img" style="height: 200px;"></div>
+              </div>
+    </div>
+  
+<!-- our infrastructure.....         -->
+<div class="container-fluid" style="background-color: rgb(226, 192, 117);width: 100%;margin-top: 30px;">
+<h3 style="text-align: center;margin-top: 50px;">Our Infrastructure</h3>
+<div class="row" style="margin-top:30px;" >
+  <div class="card" style="width: 10rem;height: 10rem; margin-left: 40px;">
+      <div class="item aos-init aos-animate" data-aos="fade-right" data-aos-delay="200">
+      <div class="image"><img src="https://d21xn5q7qjmco5.cloudfront.net/images/about/2-20210818110853-1446497574infra6.jpg"></div>
+      <div class="content">
+        <h6 style="margin-top: 20px;">365 Days Customer Support</h6>
+       <p style="text-align: center;">We believe service is a top priority for every customer and thus provide service and support on all 365days of the year.</p>
+      </div>
+  </div>
+</div>
+  <div class="card" style="width: 10rem;height: 10rem; margin-left: 85px;margin-left: 120px;">
+      <div class="item aos-init aos-animate" data-aos="fade-right" data-aos-delay="400">
+      <div class="image"><img src="https://d21xn5q7qjmco5.cloudfront.net/images/about/2-20210716164429-unnamed.png"></div>
+            <div class="content">
+              <h6 style="text-align: center;">216 CHANNEL PARTNER SHOWROOMS</h6>
+             <p style="text-align: center;">Fenesta's extensive network of authorised partner showrooms, extends all across India, and provides easy access of our products to the customers across the length and breadth of the country.</p>
+            </div>
+          </div>
+      </div>
+   <div class="card" style="width: 10rem;height: 10rem; margin-left: 85px; margin-left: 220px;"> 
+      <div class="item aos-init aos-animate" data-aos="fade-right" data-aos-delay="600">
+      <div class="image"><img src="https://d21xn5q7qjmco5.cloudfront.net/images/about/2-20210604133953-infra3.jpg"></div>
+            <div class="content">
+              <h6 style="text-align: center;">20 SALES OFFICES</h6>
+             <p style="text-align: center;">To serve a long roster of institutional as well retail clients, Fenesta has a branch in every metro as well tier 1 and tier 2 cities of the country.</p>
+            </div>
+          </div>
+      </div>
+  </div>
+</div>
+
+<!-- our values...... -->
+
+<div class="container-fluid" style="margin-top: 500px;">
+<div class="inner-box" style="margin-right: 220px;">
+    <img src="https://d21xn5q7qjmco5.cloudfront.net/images/Our-Values.jpg" alt="our-values">
+
+</div>
+</div>
+
+<!-- awards and accrediations....... -->
+
+
+<div class="container-fluid" style="margin-top: 30px;">
+<h4 class="text-center aos-init aos-animate" data-aos="fade-up">Awards &amp; Accreditations</h4>
+
+<!-- <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active"> -->
+
+<div class="container-fluid" style="width: 100%;" style="margin-top: 30px;">
+
+  <div class="row" >
+      <div class="card" style="width: 17rem;height: 25rem; margin-left: 5px;">
+         
+          <div class="image">
+            <img src="https://d21xn5q7qjmco5.cloudfront.net/images/awards/1648102510.png">
+    </div>
+          <div class="content" style="margin-top: 10px;"> 
+              DMA Asia ECHO Awards 2022
+           </div>
+      </div>
+ 
+  <div class="card" style="width: 17rem;height: 25rem; margin-left: 20px;">
+         
+    <div class="image">
+      <img src="https://d21xn5q7qjmco5.cloudfront.net/images/awards/1646638534.png">
+</div>
+    <div class="content" style="margin-top: 10px;">
+      Another Milestone Achieved
+     </div>
+</div>
+
+<div class="card" style="width: 13rem;height: 25rem; margin-left: 20px;">
+         
+  <div class="image">
+    <img src="https://d21xn5q7qjmco5.cloudfront.net/images/awards/SGS_logo_logotype.png">
+</div>
+  <div class="content" style="margin-top: 50px;">
+ Fenesta Profile have been found to have no trace Cadmium, Lead, Mercury, Hexavalent chromium, Polybrominated biphenyls (PBBs), Polybrominated diphenyl ethers (PBDEs) by <b>SGS</b>
+   </div>
+</div>
+<div class="card" style="width: 13rem;height: 25rem; margin-left: 20px;">
+         
+<div class="image">
+  <img src="https://d21xn5q7qjmco5.cloudfront.net/images/awards/BSI_Assurance_Mark_ISO_9001_RGB-L_quality.png">
+</div>
+<div class="content" style="margin-top: 50px;">
+Fenesta is now <b>registered to ISO 9001:2015</b> and recognized throughout the world for its commitment to quality.
+
+</div>
+</div>
+</div>
+
+<!-- LIFE @ FENESTA...... -->
+
+
+<div class="container-fluid" style="margin-top: 50px;">
+  <h4 class="text-center aos-init aos-animate" data-aos="fade-up">Life @ Fenesta</h4>
+
+  <div class="container-fluid" style="width: 100%;" style="margin-top: 30px;">
+
+      <div class="row" >
+        <div class="col-4">
+       <div class="card" style="width: 20rem;height: 30rem; margin-left: 20px;">
+              <div class="image">
+                  <img src="https://d21xn5q7qjmco5.cloudfront.net/images/about/4-20210818110711-Picture7-min.png" style="width: 300px;">
+                  </div>
+                   <div class="content" style="text-align:start;margin-top: 10px;margin-left: 10px;" >
+                  <h6>Fenesta ensures</h6>
+                  <p>It is the little things that count, and Fenesta ensures that even the smallest achievements are well celebrated!</p>
+                  </div>
+          </div>
+          </div>
+          <div class="col-4">
+          <div class="card" style="width: 20rem;height: 30rem; margin-left: 20px;">
+              <div class="image">
+                  <img src="https://d21xn5q7qjmco5.cloudfront.net/images/about/4-20210818110641-Picture6-min.png"style="width: 300px;">
+                  </div>
+                  <div class="content" style="margin-top: 10px;margin-left: 10px;">
+                  <h6>From holistic</h6>
+                  <p>From holistic well-being to adapting to the new normal, Fenesta encourages creative thinking and innovative initiatives from all employees.</p>
+                  </div>
+          </div>
+          </div>
+          <div class="col-4">
+          <div class="card" style="width: 20rem;height: 30rem; margin-left: 20px;">
+            <div class="image">
+              <img src="https://d21xn5q7qjmco5.cloudfront.net/images/about/4-20210818110249-Picture5-min.png"style="width: 300px;">
+              </div>
+              <div class="content" style="margin-top: 10px;margin-left: 10px;">
+              <h6>Aiming to institutionalise</h6>
+              <p>Aiming to institutionalise a culture of agility in the workplace, Fenesta empowers every employee to “be the change”.</p>
+              </div>
+          </div>
+      </div>
+  </div>
+
+<!-- Customer Appreciations...... -->
+
+<div class="heading" style="margin-top:20px ;">
+  <h4 class="text-center">Customer Appreciations
+  <a href="https://www.fenesta.com/customer-reviews" class="btn btn-primary">View All</a></h4>
+    </div>
+
+    <div class="container-fluid" style="width: 100%;" style="margin-top: 30px;">
+    <div class="row">
+      <div class="col-4">
+      <div class="card" style="width: 19rem;height: 15rem;">
+        <div class="card-body">
+          <div class="row">
+            <div class="col-2">
+            <img loading="lazy" src="https://d21xn5q7qjmco5.cloudfront.net/images/appreciation/facbook-icon.jpg">
+            </div>
+            <div class="col-8" style="margin-left: 10px;">
+              Sami Goswami<br>
+                28 Feb 2022  <img loading="lazy" src="https://d21xn5q7qjmco5.cloudfront.net/images/site_images/globe.png"> 
+           </div>
+            <p class="addReadMore showlesscontent"> As usual a fabulous work by team fenesta here at creado dwarka Kudos to Gaurav Khare and team window experts. </p>
+        </div> 
+      </div>
+    </div>
+  </div>
+
+   
+        <div class="col-4">
+        <div class="card" style="width: 19rem;height: 15rem;">
+          <div class="card-body">
+            <div class="row">
+              <div class="col-2">
+            <img loading="lazy" src="https://d21xn5q7qjmco5.cloudfront.net/images/appreciation/facbook-icon.jpg">
+          </div>
+          <div class="col-8" style="margin-left: 10px;">
+            SANDEEP RAI <br>
+          28 Feb 2022  <img loading="lazy" src="https://d21xn5q7qjmco5.cloudfront.net/images/site_images/globe.png"> 
+        </div>
+        <p class="addReadMore showlesscontent">  Good and prompt service and quality product under one roof. One should definitely opt for fenesta. I want to thank Mr.Tejesh bhosle &amp; team for his genuine support.
+        </div>
+       </div>
+      </div>
+    </div>
+
+          
+        <div class="col-4">
+          <div class="card" style="width: 19rem;height: 15rem;">
+            <div class="card-body">
+              <div class="row">
+                <div class="col-2">
+              <img loading="lazy" src="https://d21xn5q7qjmco5.cloudfront.net/images/appreciation/facbook-icon.jpg">
+            </div>
+            <div class="col-8" style="margin-left: 10px;">
+            NAZIRHUSSAIN MOMIN <br>
+            28 Feb 2022  <img loading="lazy" src="https://d21xn5q7qjmco5.cloudfront.net/images/site_images/globe.png"> 
+          </div>
+          <p class="addReadMore showlesscontent"> I have installed fenesta windows for my home and i found it the best product and awesome quality. Features are exactly as described and the technical knowledge of the sales person and engineers are excellent.</p>
+        </div>
+      </div>
+     </div>
+   </div>
+
+    </div>
+    </div>
+
